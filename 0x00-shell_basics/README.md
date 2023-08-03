@@ -1,1 +1,1 @@
-Each of the script is to clone a repo
+Each script prints the absolute path name of the current working directory
